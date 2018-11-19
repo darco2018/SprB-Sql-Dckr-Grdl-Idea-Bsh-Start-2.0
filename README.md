@@ -7,12 +7,13 @@
 - Docker
 - bash scripts
 - plugin com.palantir.docker to build/push image
+(alternative plugin is here https://github.com/Transmode/gradle-docker)
 
 You can use BOTH **bash scripts** in script folder and/or **Docker plugin** to build an image and run in a container
 and
 
 ---------------------------
-####Compared with SprB-Sql-Dckr-Grdl-Idea-Bsh-Start-1.0:
+#### Compared with SprB-Sql-Dckr-Grdl-Idea-Bsh-Start-1.0:
 
 1. Added plugin '**com.palantir.docker**' which can
 - build image with 
