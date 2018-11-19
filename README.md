@@ -53,7 +53,7 @@ The app  **doesn't** use **docker-compose**.
 - docker exec -it distracted_murdock /bin/sh (for alpine - which doesnt have bash or curl)
 - docker exec -it distracted_murdock bash  (openjdk has bash and curl)
 
-####This app uses bash scripts to build Docker containers for 
+#### This app uses bash scripts to build Docker containers for 
 - the app 
 - the database.
 
